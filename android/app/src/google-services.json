@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "682703959244",
+    "project_id": "glare-d667a",
+    "storage_bucket": "glare-d667a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682703959244:android:4f0590e731491d24b87e69",
+        "android_client_info": {
+          "package_name": "com.example.glare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682703959244-9qppkhmmtdt0n0tf3tkq5f6atc137scd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glare",
+            "certificate_hash": "7a098f1bbcc662dde7fd4dd42ab8bf706fb1ce36"
+          }
+        },
+        {
+          "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hHTg-sVAUw5T9RpwBYeHmQ-RRBNKQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682703959244-a0f50mgpl01jacim2nb1kju5mb8ahj87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glare.glareUserApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682703959244:android:dda8a1fb549cd180b87e69",
+        "android_client_info": {
+          "package_name": "com.example.glareadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682703959244-epemhfkruakul8ktfblmeh2qbg6q0n1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glareadmin",
+            "certificate_hash": "7a098f1bbcc662dde7fd4dd42ab8bf706fb1ce36"
+          }
+        },
+        {
+          "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hHTg-sVAUw5T9RpwBYeHmQ-RRBNKQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682703959244-a0f50mgpl01jacim2nb1kju5mb8ahj87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glare.glareUserApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682703959244:android:e481c4a41ff49e21b87e69",
+        "android_client_info": {
+          "package_name": "com.glare.glare_photographer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hHTg-sVAUw5T9RpwBYeHmQ-RRBNKQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682703959244-a0f50mgpl01jacim2nb1kju5mb8ahj87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glare.glareUserApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682703959244:android:0780656d1ab39a6db87e69",
+        "android_client_info": {
+          "package_name": "com.glare.glare_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682703959244-hovn2ojban2k871208m0h1ibbb9sbsls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glare.glare_user_app",
+            "certificate_hash": "ed34586f5914f8578abb1819e396ba05fa6f6225"
+          }
+        },
+        {
+          "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hHTg-sVAUw5T9RpwBYeHmQ-RRBNKQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682703959244-298djs9ln83vfqul91srk84oel7bfca8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682703959244-a0f50mgpl01jacim2nb1kju5mb8ahj87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glare.glareUserApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
